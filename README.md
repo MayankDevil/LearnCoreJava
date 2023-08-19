@@ -5,12 +5,12 @@
 - Java is Pure Object Oriendted Programming Language.
 - For Doing Java Programming We require
 
-- JDK (Java Developement Kit) <Br>
-[X] Comiplers
-[X] InterpreterS
-[X] Debbugers
-[X] Packages
-[X] JRE (Java Runtime Environment)
+**JDK** (Java Developement Kit) <Br>
+-[x] Comiplers
+-[x] InterpreterS
+-[X] Debbugers
+-[X] Packages
+-[X] JRE (Java Runtime Environment)
     
 
   <https://www.oracle.com/in/java/technologies/downloads/>
