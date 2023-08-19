@@ -1,5 +1,7 @@
 # LearnCoreJava
 
+
+
 - Java is high level programming language created by Jame's Gosling in Sun_MicroSystem Since 1991 by name Oak.
 - Java rename Oak to Java in 1995.
 - Java is Pure Object Oriendted Programming Language.
@@ -15,13 +17,18 @@
 - [X] JRE (Java Runtime Environment)
 
 
+### JVM (Java Virtual Machine)
+
+_Java Virtual Machine is software program that execute Java bytecode because Java code not convert in bit like C or C++ language_
+
+
 ---
 
 ##### Download JDK Free
 
-Oracle officeal webiste for jdk you are download jdk free by your system require.
+_Oracle officeal webiste for jdk you are download jdk free by your system require.
 JDK is made for { Linux | Mac | Windows }
-Below link is Orcale webiste
+Below link is Orcale webiste not my_
 
 <https://www.oracle.com/in/java/technologies/downloads/>
 
