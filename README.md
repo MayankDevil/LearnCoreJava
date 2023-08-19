@@ -31,17 +31,17 @@ Below link is Orcale webiste
 > Compilers : compile source code to Java bytecode.
 
 ```
-
 javac sourceFileName.java
-
 ```
+
 > Disassamgler : return internal structor of ByteCode
-```
 
+```
 javap class_qulified_path
-
 ```
+
 > Interpereter : execute bytecode into JVM and return output
+
 ```
 java ByteCodeName
 ```
