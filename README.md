@@ -11,9 +11,18 @@
 -[X] Debbugers
 -[X] Packages
 -[X] JRE (Java Runtime Environment)
-    
 
-  <https://www.oracle.com/in/java/technologies/downloads/>
+---
+
+##### Download JDK Free
+
+Oracle officeal webiste for jdk you are download jdk free by your system require.
+JDK is made for { Linux | Mac | Windows }
+Below link is Orcale webiste
+
+<https://www.oracle.com/in/java/technologies/downloads/>
+
+---
 
 > Compilers : compile source code to Java bytecode.
 ```
