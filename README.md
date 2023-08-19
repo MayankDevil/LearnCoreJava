@@ -5,7 +5,7 @@
 - Java is Pure Object Oriendted Programming Language.
 - For Doing Java Programming We require
 
-**JDK** (Java Developement Kit) <Br>
+### JDK (Java Developement Kit) <Br>
 -[x] Comiplers
 -[x] InterpreterS
 -[X] Debbugers
@@ -15,14 +15,15 @@
 
   <https://www.oracle.com/in/java/technologies/downloads/>
 
+> Compilers : compile source code to Java bytecode.
 ```
 javac sourceFileName.java
 ```
-
+> Disassamgler : return internal structor of ByteCode
 ```
 javap class_qulified_path
 ```
-
+> Interpereter : execute bytecode into JVM and return output
 ```
 java ByteCodeName
 ```
