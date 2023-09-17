@@ -8,27 +8,30 @@ _JAVA is high level programming language create by Jame'e Gosling in "Sun MicroS
 
  it is group of kit for developement the java program & testing.
 
- JDK
- |
- --- Compilers.
- |
- --- Interpreters.
- |
- --- Debuggers.
- |
- --- Disassembler.
- |
- --- Documentation Generator.
- |
- --- Header & Subtitle Generator.
- |
- --- Packages & Classes.
- |
- --- JRE & JVM.
+- JDK
+- |
+- --- Compilers.
+- |
+- --- Interpreters.
+- |
+- --- Debuggers.
+- |
+- --- Disassembler.
+- |
+- --- Documentation Generator.
+- |
+- --- Header & Subtitle Generator.
+- |
+- --- Packages & Classes.
+- |
+- --- JRE & JVM.
+
 
 #### Download JDK by Oracle
 
-you are diractly download JDK by **ORACLE** offical website that is <https://www.oracle.com/in/java/technologies/downloads/> 
+you are diractly download JDK by **ORACLE** offical website that is 
+<https://www.oracle.com/in/java/technologies/downloads/> 
+
 
 ### Execute Java Code
 
@@ -49,15 +52,18 @@ you are diractly download JDK by **ORACLE** offical website that is <https://www
  javap bytecode_name
 ```
 
+
 ### JRE (Java Runtime Environment)
 
  it is the environment that time java is execute the bytecode and give output.
+
 
 ### JVM (Java Virtual Machine)
 
  it is software program that is perform as virtual hardware device.
  it compiled byte code that run in every Operating System { Linux | MacBook | Windows } that need to execute JRE only.
  all language is execute in bit(1 and 0) but java is execute in byte(8 bit) at time.
+
 
 #### sourceFile.java
 
