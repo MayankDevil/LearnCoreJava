@@ -35,24 +35,18 @@ you are diractly download JDK by **ORACLE** offical website that is <https://www
 > Primary compile the java "source_code" that return bytecode that bytecode same as inside classname mean number of class equal to return number of bytecode
 
 ```bash
-
  javac source_file_name.java
-
 ```
 > Secondary interpret the java "btye_Code" that execute in **JRE** by **JVM**. 
 
 ```bash
-
  javac bytecode_name
- 
 ```
 
 > For explore structure of bytecode use java disassembler
 
 ```bash
-
  javap bytecode_name
- 
 ```
 
 ### JRE (Java Runtime Environment)
