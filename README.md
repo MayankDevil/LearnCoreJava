@@ -10,25 +10,25 @@ _JAVA is high level programming language create by Jame'e Gosling in "Sun MicroS
 
  JDK
  |
- --- Compilers
+ --- Compilers.
  |
- --- Interpreters
+ --- Interpreters.
  |
- --- Debuggers
+ --- Debuggers.
  |
- --- Disassembler
+ --- Disassembler.
  |
- --- Documentation Generator
+ --- Documentation Generator.
  |
- --- Header & Subtitle Generator
+ --- Header & Subtitle Generator.
  |
- --- Packages & Classes
+ --- Packages & Classes.
  |
- --- JRE & JVM
+ --- JRE & JVM.
 
 #### Download JDK by Oracle
 
-	you are diractly download JDK by **ORACLE** offical website that is <https://www.oracle.com/in/java/technologies/downloads/> 
+you are diractly download JDK by **ORACLE** offical website that is <https://www.oracle.com/in/java/technologies/downloads/> 
 
 ### Execute Java Code
 
