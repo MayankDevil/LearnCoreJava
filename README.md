@@ -79,10 +79,10 @@ you are diractly download JDK by **ORACLE** offical website that is <https://www
 - [] method_overload
 - [x] inheritence
 - [x] method_override
-- [] dynamicMethodDispatch
+- [x] dynamicMethodDispatch
 - [x] superKeyword
 - [x] superFunction
-- [] abstract
+- [x] abstract
 - [] final
 - [] interface
 - [] packages
@@ -99,3 +99,4 @@ you are diractly download JDK by **ORACLE** offical website that is <https://www
 - [] two_d_array
 - [] jacked_array
 - [] foreach_loop
+
