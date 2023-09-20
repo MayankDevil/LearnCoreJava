@@ -8,30 +8,27 @@ _JAVA is high level programming language create by Jame'e Gosling in "Sun MicroS
 
  it is group of kit for developement the java program & testing.
 
-- JDK
-- |
-- --- Compilers.
-- |
-- --- Interpreters.
-- |
-- --- Debuggers.
-- |
-- --- Disassembler.
-- |
-- --- Documentation Generator.
-- |
-- --- Header & Subtitle Generator.
-- |
-- --- Packages & Classes.
-- |
-- --- JRE & JVM.
-
+ JDK
+ |
+ --- Compilers.
+ |
+ --- Interpreters.
+ |
+ --- Debuggers.
+ |
+ --- Disassembler.
+ |
+ --- Documentation Generator.
+ |
+ --- Header & Subtitle Generator.
+ |
+ --- Packages & Classes.
+ |
+ --- JRE & JVM.
 
 #### Download JDK by Oracle
 
-you are diractly download JDK by **ORACLE** offical website that is 
-<https://www.oracle.com/in/java/technologies/downloads/> 
-
+you are diractly download JDK by **ORACLE** offical website that is <https://www.oracle.com/in/java/technologies/downloads/> 
 
 ### Execute Java Code
 
@@ -52,18 +49,15 @@ you are diractly download JDK by **ORACLE** offical website that is
  javap bytecode_name
 ```
 
-
 ### JRE (Java Runtime Environment)
 
  it is the environment that time java is execute the bytecode and give output.
-
 
 ### JVM (Java Virtual Machine)
 
  it is software program that is perform as virtual hardware device.
  it compiled byte code that run in every Operating System { Linux | MacBook | Windows } that need to execute JRE only.
  all language is execute in bit(1 and 0) but java is execute in byte(8 bit) at time.
-
 
 #### sourceFile.java
 
@@ -73,36 +67,37 @@ you are diractly download JDK by **ORACLE** offical website that is
 - [x] datatype
 - [] operator
 - [x] if_else
-- [] switch
-- [] for_loop
-- [] while_loop
-- [] dowhile_loop
+- [x] nested_if
+- [x] switch
+- [x] for_loop
+- [x] while_loop
+- [x] dowhile_loop
 - [x] function
 - [x] class_object
 - [x] constructor
 - [x] perimeter_constructor
 - [x] copy_constructor
-- [] method_overload
+- [x] method_overload
 - [x] inheritence
 - [x] method_override
 - [x] dynamicMethodDispatch
 - [x] superKeyword
 - [x] superFunction
 - [x] abstract
-- [] final
-- [] interface
-- [] packages
-- [] AccessSpecifier
-- [] throws
+- [x] final
+- [x] interface
+- [x] package
+- [x] accessspecifier
+- [x] throws
 - [] try_catch
-- [] try_catch_final
+- [] tryCatchFinally
 - [] throw
 - [] byteInput
 - [] charactorInput
 - [] string
 - [] stringBuffer
-- [] array 
-- [] two_d_array
+- [] array
+- [] 2d_array
 - [] jacked_array
 - [] foreach_loop
 
