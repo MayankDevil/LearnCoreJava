@@ -72,8 +72,11 @@ you are diractly download JDK by **ORACLE** offical website that is <https://www
 - [x] for_loop
 - [x] while_loop
 - [x] dowhile_loop
+- [x] nested_loop
 - [x] function
 - [x] class_object
+- [x] staticVariable
+- [x] staticMethod
 - [x] constructor
 - [x] perimeter_constructor
 - [x] copy_constructor
@@ -92,12 +95,12 @@ you are diractly download JDK by **ORACLE** offical website that is <https://www
 - [] try_catch
 - [] tryCatchFinally
 - [] throw
-- [] byteInput
-- [] charactorInput
+- [x] byteInput
+- [x] charactorInput
+- [x] array
+- [x] 2d_array
+- [x] foreach_loop
+- [x] jacked_array
 - [] string
 - [] stringBuffer
-- [] array
-- [] 2d_array
-- [] jacked_array
-- [] foreach_loop
 

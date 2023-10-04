@@ -15,6 +15,6 @@ class Test
 }
 /*
 -	System is class.
--	out is refferce final vairable of System Class that is subclass of InputStream.
--	print is function.
+-	out is OutputStream object of System.
+-	print is function. 
 */

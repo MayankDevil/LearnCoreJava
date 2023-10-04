@@ -24,9 +24,9 @@ class Test
 */
 class hello
 {
-	void main()
+	public static void main(String args[])
 	{
-		// 
+		// TO DO LOGIC APPLICATION CODE
 	}
 }
 
