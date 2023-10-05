@@ -95,12 +95,12 @@ you are diractly download JDK by **ORACLE** offical website that is <https://www
 - [] try_catch
 - [] tryCatchFinally
 - [] throw
-- [x] byteInput
-- [x] charactorInput
+- [x] byteOriented
+- [x] charactorOriented
 - [x] array
 - [x] 2d_array
 - [x] foreach_loop
 - [x] jacked_array
-- [] string
-- [] stringBuffer
+- [x] string
+- [x] stringBuffer
 
