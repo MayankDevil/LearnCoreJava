@@ -65,7 +65,9 @@ you are diractly download JDK by **ORACLE** offical website that is <https://www
 - [x] statement
 - [x] cmdline_args
 - [x] datatype
-- [] operator
+- [x] unaryOperator
+- [x] binaryOperator
+- [x] ternaryOperator
 - [x] if_else
 - [x] nested_if
 - [x] switch
@@ -92,8 +94,8 @@ you are diractly download JDK by **ORACLE** offical website that is <https://www
 - [x] package
 - [x] accessspecifier
 - [x] throws
-- [] try_catch
-- [] tryCatchFinally
+- [x] try_catch
+- [x] tryCatchFinally
 - [] throw
 - [x] byteOriented
 - [x] charactorOriented
