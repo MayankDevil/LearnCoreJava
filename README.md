@@ -96,7 +96,7 @@ you are diractly download JDK by **ORACLE** offical website that is <https://www
 - [x] throws
 - [x] try_catch
 - [x] tryCatchFinally
-- [] throw
+- [ ] throw
 - [x] byteOriented
 - [x] charactorOriented
 - [x] array
