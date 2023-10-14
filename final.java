@@ -22,7 +22,7 @@ class Test
 {
 	public static void main(String args[])
 	{
-		SubClasss sub = new SubClass();
+		SubClass sub = new SubClass();
 		SuperClass sup = new SuperClass();
 	}
 }
