@@ -26,6 +26,10 @@
 [ syntax ]
 
 	new java.util.Scanner(System.in).next();
+	
+-   System  : is class inside "java.lang" package
+-   out     : is object of jva.io.OutputStream 
+-   print   : is function of OutputStream class
 
 */
 class Test
