@@ -75,15 +75,15 @@ class Test
 {
 	public static void main(String args[]) throws java.io.IOException
 	{
-//		java.io.BufferedReader input = ;
+		// java.io.BufferedReader input = ;
 
 		String myLine = new java.io.BufferedReader(new java.io.InputStreamReader(System.in)).readLine();
 
-        java.io.PrintWriter writer = new java.io.PrintWriter(System.out);
+        	java.io.PrintWriter writer = new java.io.PrintWriter(System.out);
 
-        writer.println("="+myLine);
+        	writer.println("="+myLine);
         
-        writer.close();
+        	writer.close();
 	}
 }
 /*
