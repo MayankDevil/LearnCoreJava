@@ -41,6 +41,34 @@
 
 	public java.io.InputStreamReader(java.io.InputStream, java.nio.charsetCharsetDecoder)
 
+-   we are set charactor oriented output by use java.io.PrintWriter class.
+-   InputStreamReader have 11 constructor but not any deault contructor.
+-   but PrintWriter compalsoury to close()
+
+[ syntax ]
+
+    public java.io.PrintWriter(java.io.Writer);
+
+    public java.io.PrintWriter(java.io.Writer, boolean);
+
+    public java.io.PrintWriter(java.io.OutputStream);
+
+    public java.io.PrintWriter(java.io.OutputStream, boolean);
+
+    public java.io.PrintWriter(java.io.OutputStream, boolean, java.nio.charset.Charset);
+
+    public java.io.PrintWriter(java.lang.String) throws java.io.FileNotFoundException;
+
+    public java.io.PrintWriter(java.lang.String, java.lang.String) throws java.io.FileNotFoundException, java.io.UnsupportedEncodingException;
+
+    public java.io.PrintWriter(java.lang.String, java.nio.charset.Charset) throws java.io.IOException;
+
+    public java.io.PrintWriter(java.io.File) throws java.io.FileNotFoundException;
+
+    public java.io.PrintWriter(java.io.File, java.lang.String) throws java.io.FileNotFoundException, java.io.UnsupportedEncodingException;
+
+    public java.io.PrintWriter(java.io.File, java.nio.charset.Charset) throws java.io.IOException;
+
 */
 
 class Test
@@ -51,13 +79,16 @@ class Test
 
 		String myLine = new java.io.BufferedReader(new java.io.InputStreamReader(System.in)).readLine();
 
-		System.out.println("-"+myLine);
+        java.io.PrintWriter writer = new java.io.PrintWriter(System.out);
 
-//		java.io.BufferedWriter(new java.io.OutputStreamWriter(System.out)).write(232);
+        writer.println("="+myLine);
+        
+        writer.close();
 	}
 }
 /*
 [ Output ]==============================================================
-
+Hello world i am able to read write
+=Hello world i am able to read write
 
 */
