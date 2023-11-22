@@ -71,3 +71,33 @@ Devil
 First
 
 */
+
+/*
+String a = " Hello Dear How are you can you know the meaning of friendship ";
+        
+System.out.println("Paragraph \t"+a);
+
+System.out.println(
+				"\n\n indexOf(\"e\") = "+a.indexOf("e")+"\t indexOf(\" Friend \") ="+a.indexOf("Firend")+
+				"\n\n lastIndexOf(\"that\") = "+a.lastIndexOf("that")+"\n\n lastIndexOf(\"e\",4) = "+a.lastIndexOf("e",4)+
+				"\n\n length() = "+a.length()+
+				"\n\n charAt(1) = "+a.charAt(1)+"\t charAt(4) = "+a.charAt(4)+
+				"\n\n concat( \" Friend \" ) = "+a.concat(" Friend ")+"\n\n"                
+);
+
+String b = "Welcome";
+
+System.out.println("Word \t"+b);
+
+System.out.println(
+					"\n\n equal(\"Welcome\") = "+b.equals("Welcome")+
+					"\t equalsIgnoreCase(\"welcome\") = "+b.equalsIgnoreCase("welcome")+
+					"\n\n compareTo(\"welcome\") = "+b.compareTo("welcome")+
+					"\t compareTo(\"welcome\") = "+b.compareToIgnoreCase("welcome")+
+					"\n\n startWith(\"We\") = "+b.startsWith("We")+
+					"\t startWith(\"We\",2) = "+b.startsWith("We",2)+
+					"\n\n endsWith(\"me\") = "+b.endsWith("me")+
+					"\n\n regionMatches(4.\"COME\",1,3) = "+b.regionMatches(4,"COME", 1, 3)+
+					"\t regionMatches(true,4,\"come\",1,3) = "+b.regionMatches(true, 4,"come", 1, 3)
+);
+*/
