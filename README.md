@@ -105,7 +105,7 @@ you are diractly download JDK by **ORACLE** offical website that is <https://www
 - [x] jacked_array
 - [x] string
 - [x] stringBuffer
-- [ ] math
+- [x] math
 - [ ] date
 - [ ] thread
 - [ ] enum
