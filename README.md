@@ -113,7 +113,7 @@ you are diractly download JDK by **ORACLE** offical website that is <https://www
 
 #### CheckOut for more better
 
-__Procoder__ <https://mayankdevil.github.io/website-16/>
+__Procoders__ <https://mayankdevil.github.io/ProCoders/>
 
-__JavaWeb__ <https://mayankdevil.github.io/Java_website/>
+__Java_website__ <https://mayankdevil.github.io/Java_website/>
 
